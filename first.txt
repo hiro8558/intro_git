@@ -2,3 +2,4 @@
 ワークフロー
 add commit
 git rm
+git status
