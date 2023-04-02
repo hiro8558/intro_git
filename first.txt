@@ -1,3 +1,4 @@
 作成
 ワークフロー
 add commit
+git rm
